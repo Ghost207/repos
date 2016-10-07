@@ -1,4 +1,4 @@
 just a blank readme
 authors:
-Roman Shabinevich
+Roman Shabinevych
 Kysil Volodymir
